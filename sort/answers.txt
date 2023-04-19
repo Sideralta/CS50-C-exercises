@@ -1,0 +1,11 @@
+sort1 uses: bubble
+
+How do you know?: was the faster using sorted50000.txt
+
+sort2 uses: merge
+
+How do you know?: was the faster using random50000.txt
+
+sort3 uses: selection
+
+How do you know?: takes similar time to bubble using randoms number, but slower when i use sorted files
